@@ -301,7 +301,7 @@
     <!-- footer design  -->
     <footer class="footer">
         <div class="footer-text">
-            <p>Copyright &copy; 2023 by Vijay Gowda | All Rights Reserved.</p>
+            <p>Copyright &copy; <span id="curyear">2023 </span> by Vijay Gowda | All Rights Reserved.</p>
         </div>
         <div class="footer-iconTop">
             <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
@@ -358,6 +358,15 @@
             }
             return true;
         }
+
+	// JavaScript code to get the current year
+const currentYear = new Date().getFullYear();
+
+// Display the current year in the console
+console.log(currentYear);
+
+// Display the current year in the span with id "curyear"
+document.getElementById('curyear').textContent = currentYear;
 
     </script>
     <!-- <script> 
