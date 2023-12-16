@@ -476,7 +476,9 @@ span {
   .logosec{
     width: 25%;
 }
-
+.glowing-btn {
+    font-size: 14px !important;
+}
     section{
        overflow-x:hidden;
     }
