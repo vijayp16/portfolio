@@ -323,7 +323,7 @@ span {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0, 0, 0, .1), var(--main-color));
+    background: linear-gradient(rgba(0, 0, 0, .1), black);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -477,6 +477,49 @@ span {
         display: block;
     }
 
+    .logosec{
+    width: 35%;
+}
+.social-media a{
+
+    margin:0px !important;
+    width: 25px;
+    height: 25px;
+}
+
+    .logo-img {
+    width: 40%;
+}
+
+.home-content {
+    width: 90% !important;
+}
+
+    .home {
+    display: flex;
+    margin-top: 15%
+    }
+
+.home-img{
+    display: flex;
+    justify-content: center;
+    /* margin-right: 10%; */
+    margin-top: 10%;
+}
+
+    section {
+    min-height: auto !important;
+}
+
+    .about{
+        overflow-x:hidden!important;
+        padding:0% 5%;
+    }
+
+    .services-box {
+    height: auto;
+}
+    
     .navbar {
         position: absolute;
         top: 100%;
