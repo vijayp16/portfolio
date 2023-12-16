@@ -472,12 +472,8 @@ span {
     }
 }
 
-@media(max-width:768px) {
-    #menu-icon {
-        display: block;
-    }
-
-    .logosec{
+@media only screen and (max-width:768px) {
+  .logosec{
     width: 35%;
 }
 .social-media a{
@@ -520,6 +516,14 @@ span {
     height: auto;
 }
     
+}
+
+@media(max-width:768px) {
+    #menu-icon {
+        display: block;
+    }
+
+  
     .navbar {
         position: absolute;
         top: 100%;
