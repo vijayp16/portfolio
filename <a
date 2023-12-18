@@ -42,13 +42,13 @@
             <a href="#contact">Contact</a>
         </nav>
         <div class="social-media ">
-            <!-- <a href="#"><i class='bx bxl-facebook'></i></a> -->
-            <a href="https://instagram.com/_vjgowda?igshid=YTQwZjQ0NmI0OA=="><i class='bx bxl-instagram'></i></a>
-            <a href="https://wa.me/9591945193"><i class='bx bxl-whatsapp'></i></a>
-            <a href="https://www.linkedin.com/in/vijay-gowda-23a41824a"><i class='bx bxl-linkedin'></i></a>
-            <a href="tel:+919591945193"><i class='bx bx-phone-call'></i></a>
+            <!-- <a  href="#"><i class='bx bxl-facebook'></i></a> -->
+            <a href="https://instagram.com/_vjgowda?igshid=YTQwZjQ0NmI0OA==" target="blank" ><i class='bx bxl-instagram'></i></a>
+            <a href="https://wa.me/9591945193"><i class='bx bxl-whatsapp'  target="blank"></i></a>
+            <a href="https://www.linkedin.com/in/vijay-gowda-23a41824a"  target="blank"><i class='bx bxl-linkedin'></i></a>
+            <a href="tel:+919591945193"  target="blank"><i class='bx bx-phone-call'></i></a>
 
-            <a href="https://www.behance.net/vijaygowda4"><i class='bx bxl-behance'></i></a>
+            <a href="https://www.behance.net/vijaygowda4"  target="blank"><i class='bx bxl-behance'></i></a>
 
             
         </div>
@@ -227,7 +227,7 @@
                 <div class="Portfolio-layer">
                     <h4>SMO Creatives</h4>
                     <p>"Unlocking creativity through design mastery. My portfolio showcases a fusion of innovation and aesthetics, breathing life into concepts."</p>
-                    <a href="https://www.behance.net/gallery/158372151/REAL-ESTATE-ADS-CREATIVES"><i class='bx bx-link-external'></i></a>
+                    <a href="https://www.behance.net/gallery/158372151/REAL-ESTATE-ADS-CREATIVES"  target="blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -236,7 +236,7 @@
                 <div class="Portfolio-layer">
                     <h4>Advertising</h4>
                     <p>"Elevate your brand with captivating advertising designs. From concept to creation, our portfolio showcases impactful visuals that turn heads and drive results. Let's shape your brand story together!"</p>
-                    <a href="https://coevolvegroup.com/"><i class='bx bx-link-external'></i></a>
+                    <a href="https://coevolvegroup.com/"  target="blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -245,7 +245,7 @@
                 <div class="Portfolio-layer">
                     <h4>Logo Design</h4>
                     <p>"Elevate your brand identity with distinctive logo designs. Meticulously crafted to resonate with your essence, leaving a lasting impression. Your vision, our creativity – a perfect blend for success."</p>
-                    <a href="https://www.teknixelevators.com/"><i class='bx bx-link-external'></i></a>
+                    <a href="https://www.teknixelevators.com/"  target="blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -263,7 +263,7 @@
                 <div class="Portfolio-layer">
                     <h4>UI / UX</h4>
                     <p>"Crafting seamless digital experiences. As a UI/UX designer, I merge aesthetics with functionality to create intuitive interfaces. Explore my portfolio for user-centric designs that elevate digital interactions."</p>
-                    <a href="https://www.behance.net/gallery/152748439/WEB-DESIGN"><i class='bx bx-link-external'></i></a>
+                    <a href="https://www.behance.net/gallery/152748439/WEB-DESIGN"  target="blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
 
@@ -272,7 +272,7 @@
                 <div class="Portfolio-layer">
                     <h4>Brochure Design</h4>
                     <p>"Unlock the power of visual communication with our bespoke brochure designs. Elevate your brand presence through stunning layouts, compelling content, and impactful imagery."</p>
-                    <a href="https://www.behance.net/gallery/152578345/BROCHURE-DESIGN"><i class='bx bx-link-external'></i></a>
+                    <a href="https://www.behance.net/gallery/152578345/BROCHURE-DESIGN"  target="blank"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
         </div>
